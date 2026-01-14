@@ -1,4 +1,4 @@
-# Sapphive Tor Client
+# <img src="https://styleguide.torproject.org/static/images/tor-logo/color.svg" width="32"> Sapphive Tor Client
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/sapphive/tor) ![Docker Image Size](https://img.shields.io/docker/image-size/sapphive/tor) ![Build Status](https://github.com/sapphive/tor-docker/actions/workflows/build.yml/badge.svg)
 
